@@ -80,6 +80,12 @@ h6
     height: 480px;
 }
 
+.game_video_holder
+{
+    display: flex;
+    justify-content: center;
+}
+
 .text_gen, .text_center
 {
     color: #3d3d3d;
@@ -109,6 +115,12 @@ h6
     width: 150px;
     height: 150px;
     z-index: 2;
+}
+
+.small-icon
+{
+    width: 32px;
+    height: 32px;
 }
 
 /* @media screen and (max-width: 769px){
